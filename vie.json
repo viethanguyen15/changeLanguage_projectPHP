@@ -1,0 +1,9 @@
+{
+    "title": "Thư viện sách ONLINE",
+    "description": "Một ứng dụng nhỏ trong lộ trình khóa học Full Stack PHP.",
+    "name": "Tên sách",
+    "preview": "Đọc thử",
+    "download": "Tải xuống",
+    "add": "+ THêm sách vào thư viện",
+    "title_modal": "Thêm sách vào thư viện"
+}   

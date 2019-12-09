@@ -1,0 +1,9 @@
+{
+    "title": "ONLINE book library",
+    "description": "A small application in the Full Stack PHP course roadmap.",
+    "name": "Name book",
+    "preview": "Preview",
+    "download": "Download",
+    "add": "+ Add books to the library",
+    "title_modal": "Add books to the library"
+}
